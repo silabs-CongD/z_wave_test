@@ -1,0 +1,11 @@
+{
+ "project_name": "accelerometer_mma8452q",
+ "build_type": "sls",
+ "type": "Hardware Driver",
+ "technology": "Platform",
+ "license": "Zlib",
+ "sdk": "v4.1.0",
+ "ram": "5.28 KB",
+ "flash": "27.42 KB",
+ "gh_child_link": "/accelerometer_mma8452q/"
+}

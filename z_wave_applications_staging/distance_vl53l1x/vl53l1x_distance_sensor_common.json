@@ -1,0 +1,11 @@
+{
+ "project_name": "distance_vl53l1x",
+ "build_type": "sls",
+ "type": "Application Examples",
+ "technology": "Z-Wave",
+ "license": "Zlib",
+ "sdk": "v4.0.2",
+ "ram": "4.4 KB",
+ "flash": "22.91 KB",
+ "gh_child_link": "/distance_vl53l1x/"
+}
